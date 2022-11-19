@@ -1,4 +1,0 @@
-add
-commit
-
-git status 是看狀態
