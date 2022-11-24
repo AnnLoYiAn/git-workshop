@@ -7,3 +7,4 @@ git status 是看狀態
 test
 test2
 test3
+test4 reset
