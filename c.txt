@@ -1,5 +1,0 @@
-add
-commit
-add some content
-git status 是看狀態
-2222
